@@ -56,7 +56,7 @@ class udpBaseClient_2
 
             { 
 
-                System.out.println("Client sent bye.....EXITING"); 
+                System.out.println("Server sent bye.....EXITING"); 
 
                 break; 
 
