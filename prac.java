@@ -6,7 +6,7 @@ public static void main(String[] args)
 {
 int rev=0,k,n,r;
 Scanner sc=new Scanner(System.in);
-System.out.println("\nenter your no.\n");
+System.out.println("\nenter your no...\n");
 n = sc.nextInt();
 k = n;
 if(n==0)
