@@ -1,1 +1,1 @@
-These are the sample java program for java learning
+This repository consist of sample java programs.. 
